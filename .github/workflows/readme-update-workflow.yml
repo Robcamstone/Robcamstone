@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Readme Update Workflow
 on:
   workflow_dispatch:
 
